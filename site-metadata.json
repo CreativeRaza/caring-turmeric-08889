@@ -61,7 +61,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Disclaimers",
                 "url": "lorem-ipsum",
                 "primary": false,
                 "new_window": false,
