@@ -22,7 +22,7 @@
             },
             {
                 "label": "Disclaimers",
-                "url": "#",
+                "url": "/disclaimers",
                 "primary": false,
                 "new_window": false,
                 "no_follow": false,
