@@ -34,7 +34,7 @@
         "logo_img": "images/logo_alt.png",
         "tagline": "This is a free course website",
         "has_nav": false,
-        "nav_title": "Company",
+        "nav_title": "",
         "nav_links": [
             {
                 "label": "About Us",
