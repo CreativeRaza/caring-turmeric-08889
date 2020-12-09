@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'privacy '
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 meta_title: lorem-ipsum
