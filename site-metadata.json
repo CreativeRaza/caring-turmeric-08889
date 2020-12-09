@@ -62,7 +62,7 @@
             },
             {
                 "label": "Disclaimers",
-                "url": "lorem-ipsum",
+                "url": "/disclaimers",
                 "primary": false,
                 "new_window": false,
                 "no_follow": false,
