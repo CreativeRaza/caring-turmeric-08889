@@ -46,7 +46,7 @@
             },
             {
                 "label": "Contact Us",
-                "url": "lorem-ipsum",
+                "url": "/contact-us",
                 "primary": false,
                 "new_window": false,
                 "no_follow": false,
