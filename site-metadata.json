@@ -54,7 +54,7 @@
             },
             {
                 "label": "Privacy Policy",
-                "url": "lorem-ipsum",
+                "url": "/privacy-policy",
                 "primary": false,
                 "new_window": false,
                 "no_follow": false,
