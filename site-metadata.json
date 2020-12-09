@@ -37,10 +37,6 @@
         "nav_title": "About EshaYT",
         "nav_links": [
             {
-                "label": "About Us",
-                "url": "/about"
-            },
-            {
                 "label": "Sign Up",
                 "url": "signup"
             }
