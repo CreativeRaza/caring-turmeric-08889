@@ -33,7 +33,7 @@
     "footer": {
         "logo_img": "images/logo_alt.png",
         "tagline": "This is a free course website",
-        "has_nav": false,
+        "has_nav": true,
         "nav_title": "About EshaYT",
         "nav_links": [],
         "has_social": true,
