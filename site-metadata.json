@@ -47,10 +47,6 @@
             {
                 "label": "Sign Up",
                 "url": "signup"
-            },
-            {
-                "label": "Contact",
-                "url": "/contact"
             }
         ],
         "has_social": true,
