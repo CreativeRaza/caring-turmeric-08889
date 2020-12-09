@@ -13,12 +13,12 @@
                 "url": "/features"
             },
             {
-                "label": "About",
-                "url": "/style-guide"
-            },
-            {
                 "label": "Platform",
                 "url": "/pricing"
+            },
+            {
+                "label": "About",
+                "url": "/style-guide"
             }
         ]
     },
