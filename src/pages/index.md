@@ -6,7 +6,7 @@ sections:
     background: gray
     title: Latest Free Courses
     subtitle: Find Your desired free Udemy courses here!
-meta_title: Stackbit Azimuth Theme
+meta_title: Welcome to EshaYT
 meta_description: The preview of the Azimuth theme
 template: landing
 ---
