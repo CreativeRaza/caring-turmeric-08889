@@ -7,6 +7,6 @@ sections:
     title: Latest Free Courses
     subtitle: Find Your desired free Udemy courses here!
 meta_title: Welcome to EshaYT
-meta_description: The preview of the Azimuth theme
+meta_description: 'Find Desired '
 template: landing
 ---
