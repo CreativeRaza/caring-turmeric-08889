@@ -7,6 +7,6 @@ sections:
     title: Latest Free Courses
     subtitle: Find Your desired free Udemy courses here!
 meta_title: Welcome to EshaYT
-meta_description: 'Find Desired '
+meta_description: Find Desired Courses
 template: landing
 ---
