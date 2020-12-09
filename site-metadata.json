@@ -53,7 +53,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Privacy Policy",
                 "url": "lorem-ipsum",
                 "primary": false,
                 "new_window": false,
