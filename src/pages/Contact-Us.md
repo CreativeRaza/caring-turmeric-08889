@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-subtitle: lorem-ipsum
+subtitle: ''
 image_alt: lorem-ipsum
 meta_title: lorem-ipsum
 meta_description: lorem-ipsum
