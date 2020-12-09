@@ -1,5 +1,5 @@
 ---
-title: privacy Policy
+title: Privacy Policy
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 meta_title: lorem-ipsum
