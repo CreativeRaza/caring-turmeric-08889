@@ -4,7 +4,7 @@ subtitle: ''
 image_alt: lorem-ipsum
 meta_title: lorem-ipsum
 meta_description: lorem-ipsum
-canonical_url: /
+canonical_url: /contact-us
 no_index: false
 template: page
 ---
