@@ -1,5 +1,5 @@
 ---
-title: 'About '
+title: About Us
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 meta_title: lorem-ipsum
